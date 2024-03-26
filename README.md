@@ -11,6 +11,5 @@ Analytics: Advanced URL shorteners often provide analytics and tracking features
 
 # Screenshots
 
-<img width="960" alt="Short" src="https://github.com/attaelahi/URL-Shortener/assets/72361631/4177b7a8-7bf0-433c-be8c-9e70726a3b24">
 <img width="960" alt="Home" src="https://github.com/attaelahi/URL-Shortener/assets/72361631/c36a56a2-ba02-494e-8192-dbb5697f41d4">
-
+<img width="960" alt="Short" src="https://github.com/attaelahi/URL-Shortener/assets/72361631/4177b7a8-7bf0-433c-be8c-9e70726a3b24">
